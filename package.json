@@ -1,0 +1,27 @@
+{
+  "name": "nodereact_udemy",
+  "version": "1.0.0",
+  "description": "Node and React Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChadwickButts/NodeReact_Udemy.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChadwickButts/NodeReact_Udemy/issues"
+  },
+  "homepage": "https://github.com/ChadwickButts/NodeReact_Udemy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
